@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: opentelemetry-collector-contrib
+  annotations:
+    github.com/project-slug: cheskayang/opentelemetry-collector-contrib
+spec:
+  type: other
+  lifecycle: unknown
+  owner: cheskayang
